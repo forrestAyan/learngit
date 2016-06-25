@@ -1,1 +1,2 @@
 It is my first time to learn git version contrl system.
+Git has a mutable index called stage.
